@@ -1,0 +1,5 @@
+{
+  "copilot.vim": { "branch": "release", "commit": "da369d90cfd6c396b1d0ec259836a1c7222fb2ea" },
+  "lazy.nvim": { "branch": "main", "commit": "ed4dc336a73c18da6fea6e1cf7ad6e1b76d281eb" },
+  "rose-pine": { "branch": "main", "commit": "72a04c4065345b51b56aed4859ea1d884f734097" }
+}
